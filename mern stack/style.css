@@ -1,0 +1,40 @@
+.dblue{
+ background-color: rgb(0, 0, 255);
+ color: aqua;
+}
+.purple{
+    background-color: rgb(133, 19, 133);
+    color: plum;
+}
+.red{
+    background-color: rgb(235, 156, 156);
+    color: rgb(220, 37, 37);
+}
+.green{
+    background-color: rgb(43, 134, 42);
+    color: rgb(130, 241, 148);
+
+}
+.grey{
+    background-color: rgb(139, 136, 144);
+    color: rgb(18, 20, 28);
+}
+.lblue{
+    background-color: rgb(58, 189, 218);
+    color: rgb(107, 126, 234);
+}
+.orange{
+    background-color: orangered;
+    color: orange;
+}
+.yellow{
+    background-color: yellow;
+    color: rgb(72, 72, 8);
+}
+table{
+    border-radius: 10px;
+}
+tr{
+    border: 60px;
+}
+
